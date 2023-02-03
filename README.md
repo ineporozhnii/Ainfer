@@ -5,6 +5,10 @@ Aїnfer is a new AI tool that harness the power of Cohere's Large Language Model
 ## Check out the web app
 - [Aїnfer](http://ainfer.chat/ "Aїnfer | Chat with Papers")
 
+## Example 
+
+![example](https://raw.githubusercontent.com/ineporozhnii/Ainfer_lablab_hackathon/main/assets/demo.png)
+
 ## Setup locally
 1. `python3 -m venv venv`
 2. `source venv/bin/activate`
