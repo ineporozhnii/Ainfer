@@ -1,1 +1,14 @@
-# Ainfer_lablab_hackathon
+# Ainfer
+## Chat with Papers
+Aїnfer is a new AI tool that harness the power of Cohere's Large Language Models to improve the way we interact with information. Aїnfer is capable of reading articles and answering questions about the content with precision and accuracy. Whether you need to understand a complex scientific concept or want to know more about a historical event, this tool is designed to give you the answers you need. It utilizes advanced natural language processing and machine learning algorithms to understand the context and meaning of the text, making it a powerful tool for researchers, students, and anyone looking to expand their knowledge. With its user-friendly interface and fast response time, this AI tool is the ultimate tool for anyone looking to stay informed and stay ahead of the curve. Just upload your articles and try the Aїnfer!
+
+## Setup locally
+1. `python3 -m venv venv`
+2. `source venv/bin/activate`
+3. `pip install -r requirements.txt`
+
+## Run locally
+1. `streamlit run app.py`
+
+## Check out on the internet
+1. [Aїnfer](http://ainfer.chat/ "Aїnfer | Chat with Papers")
