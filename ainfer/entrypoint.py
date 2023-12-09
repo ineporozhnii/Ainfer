@@ -252,13 +252,13 @@ def main():
                 time.sleep(0.02)
             sum_bar.empty()
 
-    st.sidebar.write("\n")
-    column1, column2 = st.sidebar.columns(2)
+  #  st.sidebar.write("\n")
+  #  column1, column2 = st.sidebar.columns(2)
 
-    html_code_linkedin = get_img_with_href("assets/linkedin_logo.png", "https://www.linkedin.com/in/ihor-neporozhnii/", align="left")
-    html_code_twitter = get_img_with_href("assets/twitter_logo.png", "https://twitter.com/ineporozhnii", align="right")
-    column1.markdown(html_code_twitter, unsafe_allow_html=True)
-    column2.markdown(html_code_linkedin, unsafe_allow_html=True)
+  #  html_code_linkedin = get_img_with_href("assets/linkedin_logo.png", "https://www.linkedin.com/in/ihor-neporozhnii/", align="left")
+  #  html_code_twitter = get_img_with_href("assets/twitter_logo.png", "https://twitter.com/ineporozhnii", align="right")
+  #  column1.markdown(html_code_twitter, unsafe_allow_html=True)
+  #  column2.markdown(html_code_linkedin, unsafe_allow_html=True)
 
 
 if __name__ == "__main__":
